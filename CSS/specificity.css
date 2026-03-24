@@ -1,0 +1,17 @@
+/* specificity */
+/* 
+inline css-1000
+id selector-100
+class selector-10
+element selector-1
+universal selector-1
+ */
+#heading{
+    background-color: pink;
+}
+.heading-1{
+    background-color: blue;
+}
+h1{
+    background-color: blueviolet !important;
+}

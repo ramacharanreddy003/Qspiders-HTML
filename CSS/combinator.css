@@ -1,0 +1,18 @@
+/* descent selector */
+
+ /* div h1{
+    background-color: yellowgreen;
+ } */
+
+ /* child selector */
+ div > h1{
+    background-color: brown;
+    color: violet;
+ }
+
+ div section h1 {
+    background-color: cadetblue;
+ }
+ div p{
+    background-color: yellow;
+ }
