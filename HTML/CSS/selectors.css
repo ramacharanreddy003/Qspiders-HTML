@@ -1,0 +1,22 @@
+/* id selector */
+#h1{
+    color: red;
+    background-color: cornflowerblue;
+
+}
+/*class selectors*/
+.para{
+    /* color: green; */
+    background-color: yellow;
+}
+/*element selector*/
+p{
+    background-color: violet;
+    color: blue;
+}
+ #para1{
+    color: beige;
+}
+*{
+    background-color: turquoise;
+}

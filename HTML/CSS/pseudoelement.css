@@ -1,0 +1,28 @@
+p::first-letter{
+    color: blue;
+    font-size: 35px;
+
+}
+p::first-line{
+    color: crimson;
+}
+p::before{
+    content: "Hello";
+    content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsdlvJOFpf6XG4vBE78_ukgcv4RBWU4Xp7g&s");
+}
+p::after{
+    content: "Thankyou";
+    content: url("https://png.pngtree.com/png-clipart/20240812/original/pngtree-smiley-face-with-thank-you-text-png-image_15753205.png");
+}
+p::selection{
+    color: yellow;
+    background-color: aqua;
+}
+li{
+    color: saddlebrown;
+}
+li::marker{
+    color: orchid;
+    font-size: 25px;
+}
+

@@ -1,0 +1,9 @@
+a[target]{
+    background-color: lime;
+}
+a[target="_blank"]{
+    background-color: indianred;
+}
+h1[title]{
+    background-color: purple;
+}
