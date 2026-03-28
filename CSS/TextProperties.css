@@ -1,0 +1,65 @@
+/* h1{
+    color: yellowgreen;
+    text-align: center;
+}*/
+h1{
+
+    text-align: center;
+    text-shadow: 5px 5px black;
+    /* text-shadow: 5px 5px 5px black;
+    text-shadow: 5px 5px black;
+    text-shadow: 5px 0 black;
+    text-shadow: -5px 0 black;
+    text-shadow: 0 -5px black;
+    text-shadow: 0 0 2px black;
+*/
+}
+/*p{
+    text-align: justify;
+    text-align-last: justify;
+
+
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px; 
+    
+    text-decoration: red 2px dashed;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+
+
+}*/
+/* a{
+    text-decoration: none;
+}
+
+.pro{
+    text-decoration-line: line-through;
+    text-align: justify;
+    
+
+} */
+ p{
+    text-transform: capitalize;
+
+    /* text-indent: 200px;
+    text-indent: -200px; */
+
+/* 
+    letter-spacing: 1px;
+    word-spacing: 12px; */
+
+/* 
+    line-height: 29px; 
+    line-height: -90px;*/
+
+    white-space: nowrap;
+   
+    white-space: pre;
+     white-space: normal;
+
+ }
+ .abc{
+    white-space: pre;
+ }
