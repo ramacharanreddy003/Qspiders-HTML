@@ -1,0 +1,94 @@
+.image1 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;
+    
+    left: 500px;
+    top: 200px;       /*rohit   */
+}
+
+.image2 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;
+
+    top: 100px;
+    left: 42px;
+    bottom: 60px;           /*Pandya*/
+
+}
+
+.image3 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;
+
+    top: 25px;
+    left: 50px;
+    bottom: 60px;
+    
+}
+
+.image4 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;                 /*shami*/
+
+    top: 110px;
+    left: 60px;
+}
+
+.image5 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;                         /*Arshdeep*/
+
+    top: 190px;
+    left: 70px;
+
+}
+
+.image6 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;
+
+    top: 110px;                     /*axar patel*/
+    left: 265px;
+
+}
+
+.image7 {              /*Jadeja*/
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;
+    top: 20px;
+    right: 190px;
+}
+
+.image8 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black;
+    position: relative;
+
+    top: 200px;
+    left: 50px;
+}
+
+.image9 {
+    width: 200px;
+    height: 150px;
+    border: 10px solid black; 
+    position: relative;
+
+    left: 59px;                         /*tilak*/
+    top: 120px;
+}
