@@ -1,0 +1,62 @@
+.static{
+
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: static;
+    top: 100px;
+    left: 100px;
+}
+
+.relative-1{
+    height: 100px;
+    width: 300px;
+    background-color: red;
+    /* position: relative; */
+    position: absolute;
+    top: 300px;
+    left: 500px;
+    
+    /* margin-top: 400px;
+    margin-left: 400px; */
+
+}
+
+.relative-2{
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.relative-3{
+    height: 300px;
+    width: 300px;
+    background-color: navy;
+    position: absolute;
+    left: 500px;
+
+  
+}
+
+section{
+
+    height: 300px;
+    width: 300px;
+    position: relative;
+    background-color: green;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    /* position: absolute; */
+    background-color: magenta;
+    /* margin-left: 300px; */
+    top: 50px;
+    left: 100px;
+}
